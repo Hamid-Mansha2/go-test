@@ -1,0 +1,7 @@
+language: go
+dist: jammy
+go:
+- 1.23.x
+
+script:
+- echo "test_version"
